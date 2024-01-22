@@ -15,7 +15,18 @@
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+  <h2 align="center">
+    My Github Stats  <img src="https://media.giphy.com/media/wlKlLBf2vtXNK/giphy.gif" width="50">
+  </h2>  
   
+  <br>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranggarahman&show_icons=true&theme=radical&line_height=27)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranggarahman&hide=jupyter%20notebook&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranggarahman&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0)
 
 </div>
 
