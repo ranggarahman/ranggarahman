@@ -17,7 +17,7 @@
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
   <h2 align="center">
-    Metal Gear Solid 3 : Snake Eater <img src="https://media.giphy.com/media/wlKlLBf2vtXNK/giphy.gif" width="50">
+    Metal Gear Solid 3 : Snake Eater 🐍
   </h2> 
   <picture>
     <source media="(prefers-color-scheme: dark)"   srcset="https://raw.githubusercontent.com/ranggarahman/ranggarahman/output/github-contribution-grid-snake-dark.svg">
