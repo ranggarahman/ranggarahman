@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&random=false&width=700&height=150&lines=Hello!+I'm+Rangga;An+aspiring+Mobile+Developer+%F0%9F%98%80)](https://git.io/typing-svg)
 
 <!--
 **ranggarahman/ranggarahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
