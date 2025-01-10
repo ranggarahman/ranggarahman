@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hello!+I'm+Rangga;An+aspiring+Mobile+Developer+%F0%9F%98%80;Have+a+great+time+on+my+page!+%F0%9F%8D%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=650&lines=Hello!+I'm+Rangga;An+aspiring+Developer+%F0%9F%98%80;Have+a+great+time+on+my+page!+%F0%9F%8D%BB)](https://git.io/typing-svg)
 
   ![Profile Visits](https://badges.pufler.dev/visits/ranggarahman/ranggarahman)
   ![Years on GitHub](https://badges.pufler.dev/years/ranggarahman)
